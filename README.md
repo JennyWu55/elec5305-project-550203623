@@ -41,6 +41,9 @@ Clean Speech
 
 The project is expected to produce a MATLAB-based speech enhancement system capable of reducing background noise in speech recordings. Performance will be evaluated using objective measures such as SNR improvement together with waveform and spectrogram comparisons.
 
+## Project Proposal
+
+[View the Project Proposal](ELEC5305%20Project%20Proposal.pdf)
 ## Project Status
 
 Project proposal and initial planning stage.
