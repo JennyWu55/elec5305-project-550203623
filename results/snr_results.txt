@@ -1,0 +1,13 @@
+ELEC5305 Project Feedback Two - Preliminary Results
+
+Target Input SNR: 5.00 dB
+Measured Input SNR: 5.00 dB
+Measured Output SNR: 8.35 dB
+SNR Improvement: 3.35 dB
+
+STFT Parameters:
+Sampling Rate: 16000 Hz
+Frame Length: 512 samples
+Hop Length: 256 samples
+FFT Length: 512 samples
+Input Noise Type: Gaussian white noise
