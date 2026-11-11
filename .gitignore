@@ -1,0 +1,13 @@
+# External datasets
+data/raw/
+data/selected/
+data/mixtures/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model cache
+.cache/
