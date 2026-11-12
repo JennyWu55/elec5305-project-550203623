@@ -1,4 +1,7 @@
-# STFT-Based Speech Enhancement Using Wiener Filtering in Noisy Environments
+﻿# Does Wiener Filtering Help Modern Speech Foundation Models?
+## A Layer-Wise Analysis
+
+ELEC5305 Final Project - STFT-Based Wiener Speech Enhancement and Layer-Wise Analysis of WavLM and HuBERT
 
 ## ELEC5305 Project
 
@@ -264,10 +267,10 @@ Final figures are available in:
 results/final/figures/
 ```
 
-### Final Report
+## Final Project Report
 
-The final research report will be added here after completion.
+[Download the Final Project Report](ELEC5305_Final_Project_Report_Jingyan_Wu_550203623.pdf)
 
-### Project Video
+## Final Project Video
 
-The final demonstration video link will be added here after completion.
+[Watch the Final Project Demonstration Video](video/ELEC5305_Final_Project_Video_Jingyan_Wu_550203623.mp4)
